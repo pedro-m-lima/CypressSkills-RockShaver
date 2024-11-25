@@ -1,6 +1,6 @@
 # 🚀 Curso CypresSkills - Fernando Papito
 
-# Repositório de Exercícios de Lógica [![GitHub](https://img.shields.io/badge/GitHub-pedro--m--lima-blue?style=for-the-badge&logo=github)](https://github.com/pedro-m-lima)
+# Repositório CypressSkills-RockShaver [![GitHub](https://img.shields.io/badge/GitHub-pedro--m--lima-blue?style=for-the-badge&logo=github)](https://github.com/pedro-m-lima)
 
 
 ## 🌐 Módulo: Testes em Aplicações Web Moderna
